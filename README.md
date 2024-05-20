@@ -1,4 +1,4 @@
 # GRU-Gated_recurrent_units
 
-1. GRU.ipynb - Old File
-2. GRU_Practical.ipynb - New File
+<a>1. GRU.ipynb - Old File
+<a>2. GRU_Practical.ipynb - New File
